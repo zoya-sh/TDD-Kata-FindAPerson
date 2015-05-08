@@ -1,8 +1,9 @@
 ## TDD Kata - FindAPerson
+Repository for HW4 of JCE [Software Engineering Course](https://github.com/jce-il/se-class/wiki/Schedule)
 
 ### Intro
 In this homework we are exercising Test Driven Development.
-In this method code is mostly written through the following cycle: Test (Red) -> Code (Green) -> Refactor.
+In this software development method code is mostly written through the following cycle: Test (Red) -> Code (Green) -> Refactor.
 We will also use git to document the process.
 
 You can either follow the given problem or ask the course team for another problem, e.g.,  from the Kata page in the lecture slides.
@@ -41,10 +42,10 @@ Example: Or (R.I.P) appears at [27°59′N 86°55′E] but also at [31°47′N 3
 1. [**Push**][ref-push]/sync the changes up to GitHub.
 1. [Create a **pull request**][pull-request] to the original repository to turn in the assignment, don't forget to mention your pair.
 
-A pull-request screencast [demo](http://screencast-o-matic.com/watch/coe3IEeMDa) (done for another course)
+(A pull-request screencast [demo](http://screencast-o-matic.com/watch/coe3IEeMDa) - done for another course)
 
 ### Dates
-Submit a pull request by next Tirgul (this time you don’t need to use the regular submitting form, but you can if you must :smile:).
+Submit a pull request by next Tirgul **(update: in 2 weeks)**, this time you don’t need to use the regular submitting form, but you can if you must :smile:).
 We will give feedback through the pull-request system.
 Good luck!
 
