@@ -2,7 +2,7 @@
 A repository for HW4 of the JCE [Software Engineering Course](https://github.com/jce-il/se-class/wiki/Schedule)
 
 ### Intro
-In this homework we are exercising Test Driven Development.
+In this homework we are exercising [Test Driven Development](http://en.wikipedia.org/wiki/Test-driven_development).
 In this software development method code is written through the following cycle: Test (Red) -> Code (Green) -> Refactor. See lecture slides for more details and resources.
 We will also use git to document the process.
 
@@ -38,7 +38,7 @@ Since there is a missing feature we are going to "implement" it! For a start we 
    - Output: True (since appear in more than one location)
 
 ### Work Instructions
-1. To start, [**fork** the exercise repository][forking] (or [pull][ref-pull] for later updates: ```git pull upstream master```).
+1. To start, [**fork** the exercise repository][forking] (For later updates: first add a [remote][config-remote] to the upstream repo and [sync][sync-remote] with a [pull][ref-pull]:  ```git pull upstream master```).
 1. [**Clone**][ref-clone] the repository to your computer.
 1. Modify/add files (in the repository directory) and [**commit**][ref-commit] changes to complete your solution (please don't commit compiled and project files).
     * Each TDD phase needs to be committed separately with a suitable message, e.g. “RED: Test for finding a name”.
@@ -60,4 +60,6 @@ Good luck!
 [ref-commit]: http://gitref.org/basic/#commit
 [ref-push]: http://gitref.org/remotes/#push
 [ref-pull]: http://gitref.org/remotes/#pull
+[config-remote]: https://help.github.com/articles/configuring-a-remote-for-a-fork/
+[sync-remote]: https://help.github.com/articles/syncing-a-fork/
 [pull-request]: https://help.github.com/articles/creating-a-pull-request
